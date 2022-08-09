@@ -14,4 +14,3 @@ SELECT s1.score,
        (SELECT COUNT(DISTINCT score) FROM Scores s2 WHERE s2.Score >= s1.Score) AS 'rank'
 FROM Scores s1
 ORDER BY s1.score DESC
--- sdfghj?

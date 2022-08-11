@@ -5,3 +5,5 @@
 2. Rank Scores [LeetCode 178](https://leetcode.com/problems/rank-scores/)
 
 3. Consecutive Numbers [LeetCode 180](https://leetcode.com/problems/consecutive-numbers/)
+
+4. Department Highest Salary [LeetCode 184](https://leetcode.com/problems/department-highest-salary/)

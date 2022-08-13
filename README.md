@@ -13,3 +13,4 @@
 6. Game Play Analysis IV [LeetCode 550](https://leetcode.com/problems/game-play-analysis-iv/)
 
 7. Managers with at Least 5 Direct Reports [LeetCode 570](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)
+

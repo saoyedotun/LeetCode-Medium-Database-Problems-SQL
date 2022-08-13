@@ -1,0 +1,1 @@
+-- MySQL, Oracle PL/SQL, MSSQL
